@@ -1,0 +1,7 @@
+C:\Users\sgopathi2\source\repos\PayScaleManagement\PayScaleManagement\bin\Debug\PayScaleManagement.exe.config
+C:\Users\sgopathi2\source\repos\PayScaleManagement\PayScaleManagement\bin\Debug\PayScaleManagement.exe
+C:\Users\sgopathi2\source\repos\PayScaleManagement\PayScaleManagement\bin\Debug\PayScaleManagement.pdb
+C:\Users\sgopathi2\source\repos\PayScaleManagement\PayScaleManagement\obj\Debug\PayScaleManagement.csprojAssemblyReference.cache
+C:\Users\sgopathi2\source\repos\PayScaleManagement\PayScaleManagement\obj\Debug\PayScaleManagement.csproj.CoreCompileInputs.cache
+C:\Users\sgopathi2\source\repos\PayScaleManagement\PayScaleManagement\obj\Debug\PayScaleManagement.exe
+C:\Users\sgopathi2\source\repos\PayScaleManagement\PayScaleManagement\obj\Debug\PayScaleManagement.pdb
